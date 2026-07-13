@@ -78,10 +78,11 @@ App/
 
 
 🧩 Tech Stack
-
+```
 Frontend: HTML, CSS, JavaScript
 Backend: Python, Flask, Streamlit
 Computer Vision: OpenCV, MediaPipe
 AI Coaching: Groq API, gTTS
 Database: SQLite
 Deployment: Netlify (Frontend), Streamlit Cloud / Render (Backend)
+```
